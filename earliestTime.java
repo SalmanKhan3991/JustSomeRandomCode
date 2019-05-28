@@ -1,5 +1,8 @@
 import java.util.stream.IntStream;
 
+/**
+ * @author Salman
+ */
 public class earliestTime {
 
     public static void main(String[] args) {
